@@ -1,0 +1,12 @@
+%{
+# animal
+animal_id: int   # unique animal id
+-----
+genotype: enum('WT','KO')  # genotype
+gene: char(256) 
+notes: char(256)
+anima
+%}
+
+classdef Animal < dj.Manual
+end
