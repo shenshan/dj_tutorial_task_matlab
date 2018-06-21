@@ -1,9 +1,0 @@
-%{
-# session
--> ani
------
-# add additional attributes
-%}
-
-classdef Session < dj.Manual
-end

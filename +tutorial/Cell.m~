@@ -1,9 +1,0 @@
-%{
-# cell information
-->
------
-# add additional attributes
-%}
-
-classdef Cell < dj.Manual
-end
